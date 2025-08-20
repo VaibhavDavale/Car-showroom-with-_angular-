@@ -283,5 +283,5 @@ Made with 💡 by Vaibhav Davale & Ajay Mali 📧 Email: davlevaibhav0@gmail.com
 ---
 
 **Drive Your Business Forward with Our Car Showroom Solution! 🚗✨**
-![Car Showroom Screenshot](C:\Users\davle\OneDrive\Pictures\Screenshots\Screenshot (2).png)
+![Car Showroom Screenshot](Screenshot (2).png)
 
